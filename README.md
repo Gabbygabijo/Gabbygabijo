@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 💫About Me :
 👋 Hi there! I am a passionate and innovative frontend developer with a robust background in creating dynamic and user-friendly web applications. 
 My expertise lies in leveraging modern technologies such as HTML, CSS, JavaScript, Typescript, React Js, and Next Js to build responsive and interactive interfaces that provide seamless user experiences. 🚀
